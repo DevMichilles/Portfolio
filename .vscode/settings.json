@@ -1,0 +1,11 @@
+{   
+    "python.pythonPath": "C:\\Users\\Michilles\\anaconda3\\envs\\ambiente\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.conda.Path": "C:\\Users\\Michilles\\anaconda3\\envs\\ambiente\\Scripts\\conda.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "cSpell.words": [
+        "dataframe"
+    ],
+
+    
+}
